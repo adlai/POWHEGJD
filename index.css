@@ -1,8 +1,8 @@
 /* css shamefully based on P. Michaud's PmWiki (http://www.pmwiki.org) */
 body { margin:0px; background-color:#f7f7f7; font-family:Arial,Helvetica,sans-serif; font-size:11pt; }
-a:link {color: #000000; text-decoration: none; }
-a:visited {color: #000000; text-decoration: none; }
-a:hover {color: #000000; text-decoration: none; }
+a:link {color: #123456; text-decoration: none; }
+/* a:visited {color: #000000; text-decoration: none; } */
+/* a:hover {color: #000000; text-decoration: none; } */
 #kasbody a:link {color: #000000; text-decoration: none; border-bottom: 1px dotted #000000; }
 #kasbody a:visited {color: #000000; text-decoration: none; border-bottom: 1px dotted #000000; }
 #kasbody a:hover {color: #ff0000; text-decoration: none; border-bottom: 1px solid #ff0000; }
